@@ -1,0 +1,23 @@
+,ccode,name,leagues,localizedName
+26,ENG,England,"[
+    {'id': 47, 'name': 'Premier League', 'localizedName': 'Premier League', 'pageUrl': '/leagues/47/overview/premier-league'}
+, {'id': 48, 'name': 'Championship', 'localizedName': 'Championship', 'pageUrl': '/leagues/48/overview/championship'}
+, {'id': 108, 'name': 'League One', 'localizedName': 'League One', 'pageUrl': '/leagues/108/overview/league-one'}, 
+{'id': 109, 'name': 'League Two', 'localizedName': 'League Two', 'pageUrl': '/leagues/109/overview/league-two'}, 
+{'id': 117, 'name': 'National League', 'localizedName': 'National League', 'pageUrl': '/leagues/117/overview/national-league'},
+ {'id': 8944, 'name': 'National North & South', 'localizedName': 'National North & South', 'pageUrl': '/leagues/8944/overview/national-north-south'}, 
+ {'id': 8947, 'name': 'Premier Division', 'localizedName': 'Premier Division', 'pageUrl': '/leagues/8947/overview/premier-division'}, 
+ {'id': 9084, 'name': 'Premier League 2 Div 1', 'localizedName': 'Premier League 2 Div 1', 'pageUrl': '/leagues/9084/overview/premier-league-2-div-1'}, 
+ {'id': 10176, 'name': 'Premier League 2 Div 2', 'localizedName': 'Premier League 2 Div 2', 'pageUrl': '/leagues/10176/overview/premier-league-2-div-2'}, 
+ {'id': 247, 'name': 'Community Shield', 'localizedName': 'Community Shield', 'pageUrl': '/leagues/247/overview/community-shield'},
+  {'id': 132, 'name': 'FA Cup', 'localizedName': 'FA Cup', 'pageUrl': '/leagues/132/overview/fa-cup'}, {
+    'id': 133, 'name': 'EFL Cup', 'localizedName': 'EFL Cup', 'pageUrl': '/leagues/133/overview/efl-cup'},
+     {'id': 142, 'name': 'EFL Trophy', 'localizedName': 'EFL Trophy', 'pageUrl': '/leagues/142/overview/efl-trophy'}
+     , {'id': 9253, 'name': 'FA Trophy', 'localizedName': 'FA Trophy', 'pageUrl': '/leagues/9253/overview/fa-trophy'},
+      {'id': 10068, 'name': 'Premier League U18', 'localizedName': 'Premier League U18', 'pageUrl': '/leagues/10068/overview/premier-league-u18'}, 
+      {'id': 9227, 'name': 'WSL', 'localizedName': 'WSL', 'pageUrl': '/leagues/9227/overview/wsl'},
+       {'id': 10082, 'name': 'FA Cup (Women)', 'localizedName': 'FA Cup (Women)', 'pageUrl': '/leagues/10082/overview/fa-cup-women'}, 
+       {'id': 9717, 'name': ""Women's League Cup"", 'localizedName': ""Women's League Cup"", 'pageUrl': '/leagues/9717/overview/womens-league-cup'},
+        {'id': 9294, 'name': ""Women's Championship"", 'localizedName': ""Women's Championship"", 'pageUrl': '/leagues/9294/overview/womens-championship'}, 
+        {'id': 10626, 'name': 'FA Cup Qualification', 'localizedName': 'FA Cup Qualification', 'pageUrl': '/leagues/10626/overview/fa-cup-qualification'}
+        ]",England
