@@ -1,0 +1,15 @@
+playerId,name,position,transferDate,fromClubId,fromClub,toClub,toClubId,fromDate,toDate,transferType,marketValue,fee,position_name,position_description,fee_transfer
+1477878,Anan Khalaili,"{'label': 'RW', 'key': 'rightwinger_short'}",17-06-2024,10185,Maccabi Haifa,Union St.Gilloise,7978,18-06-2024,30-06-2028,contract,5500000.0,,RW,rightwinger,0.0
+1191093,Lorenzo Bernasconi,,17-06-2024,7801,Cremonese,Atalanta,8524,01-07-2024,30-06-2028,contract,80000.0,"{'feeText': 'free transfer', 'localizedFeeText': 'transfer_type_free_transfer'}",,,0.0
+926136,Robson Bambu,"{'label': 'CB', 'key': 'centerback_short'}",17-06-2024,9831,Nice,Braga,10264,01-07-2024,30-06-2028,contract,2700000.0,"{'feeText': 'fee', 'localizedFeeText': 'transfer_fee', 'value': 1200000}",CB,centerback,1200000.0
+837270,Chidera Ejuke,"{'label': 'RW', 'key': 'rightwinger_short'}",17-06-2024,9760,CSKA,Sevilla,8302,01-07-2024,30-06-2027,contract,5400000.0,"{'feeText': 'free transfer', 'localizedFeeText': 'transfer_type_free_transfer'}",RW,rightwinger,0.0
+630168,Ignacio De Arruabarrena,"{'label': 'GK', 'key': 'keeper'}",17-06-2024,158085,Arouca,Free agent,2,01-07-2024,,contract,2000000.0,,GK,keeper,0.0
+1071487,Borja González,"{'label': 'RB', 'key': 'rightback_short'}",17-06-2024,7876,Burgos CF,OFI Crete,7753,01-07-2024,30-06-2026,contract,550000.0,"{'feeText': 'free transfer', 'localizedFeeText': 'transfer_type_free_transfer'}",RB,rightback,0.0
+1357426,Niklas Niehoff,,17-06-2024,8150,Holstein Kiel,VfL Osnabrück,9775,01-07-2024,30-06-2025,on loan,320000.0,"{'feeText': 'on loan', 'localizedFeeText': 'on_loan'}",,,0.0
+30962,Sergio Ramos,"{'label': 'CB', 'key': 'centerback_short'}",17-06-2024,8302,Sevilla,Free agent,2,01-07-2024,,contract,3300000.0,,CB,centerback,0.0
+543172,Lorenzo Dickmann,"{'label': 'RB', 'key': 'rightback_short'}",17-06-2024,8547,SPAL 2013,Brescia,9858,17-06-2024,,contract,1300000.0,"{'feeText': 'fee', 'localizedFeeText': 'transfer_fee', 'value': 250000}",RB,rightback,250000.0
+1235078,Echapora,"{'label': 'LW', 'key': 'leftwinger_short'}",17-06-2024,10272,Atletico MG,Londrina EC,298660,13-06-2024,31-12-2024,on loan,850000.0,"{'feeText': 'on loan', 'localizedFeeText': 'on_loan'}",LW,leftwinger,0.0
+1195101,Cristopher Fiermarin,"{'label': 'GK', 'key': 'keeper'}",17-06-2024,-1,Montevideo City Torque,Defensa y Justicia,161730,01-07-2024,30-06-2028,contract,1400000.0,"{'feeText': 'fee', 'localizedFeeText': 'transfer_fee', 'value': 700000}",GK,keeper,700000.0
+182159,Dardo Federico Miloc,"{'label': 'CM', 'key': 'centermidfielder_short'}",17-06-2024,213596,Central Cordoba de Santiago,Barracas Central,213534,17-06-2024,,contract,120000.0,,CM,centermidfielder,0.0
+280044,Theo Defourny,"{'label': 'GK', 'key': 'keeper'}",17-06-2024,9992,RWD Molenbeek,Sporting Charleroi,9986,16-06-2024,30-06-2027,contract,600000.0,,GK,keeper,0.0
+1252163,Matias Benitez,"{'label': 'CF', 'key': 'centerforward_short'}",17-06-2024,10098,Arsenal Sarandi,Central Cordoba de Santiago,213596,15-06-2024,31-12-2025,contract,130000.0,"{'feeText': 'free transfer', 'localizedFeeText': 'transfer_type_free_transfer'}",CF,centerforward,0.0

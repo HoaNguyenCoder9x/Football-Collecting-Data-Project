@@ -1,0 +1,8 @@
+playerId,name,position,transferDate,fromClubId,fromClub,toClub,toClubId,fromDate,toDate,transferType,marketValue,fee,position_name,position_description,fee_transfer
+1649302,Jayden Hibbert,,19-06-2024,773958,Atlanta United,Birmingham Legion FC,-1,17-06-2024,31-12-2024,on loan,25000.0,"{'feeText': 'on loan', 'localizedFeeText': 'on_loan'}",,,0.0
+877450,Lasse Sørensen,"{'label': 'RM', 'key': 'rightmidfielder_short'}",19-06-2024,8430,Lincoln,Huddersfield,9796,01-07-2024,30-06-2027,contract,550000.0,"{'feeText': 'fee', 'localizedFeeText': 'transfer_fee', 'value': 470000}",RM,rightmidfielder,470000.0
+607331,Alistair Coote,"{'label': 'LW', 'key': 'leftwinger_short'}",19-06-2024,2,Free agent,Shelbourne,5751,01-07-2024,,contract,130000.0,"{'feeText': 'free transfer', 'localizedFeeText': 'transfer_type_free_transfer'}",LW,leftwinger,0.0
+568581,Alex Bass,"{'label': 'GK', 'key': 'keeper'}",19-06-2024,8472,Sunderland,Notts County,9819,01-07-2024,30-06-2027,contract,240000.0,,GK,keeper,0.0
+832826,Sam Bone,"{'label': 'CB', 'key': 'centerback_short'}",19-06-2024,8131,Maidstone United,Shelbourne,5751,01-07-2024,30-11-2024,contract,110000.0,"{'feeText': 'free transfer', 'localizedFeeText': 'transfer_type_free_transfer'}",CB,centerback,0.0
+1229102,Sam Barnes,,19-06-2024,8655,Blackburn,Barrow,6350,01-07-2024,30-06-2025,contract,30000.0,"{'feeText': 'free transfer', 'localizedFeeText': 'transfer_type_free_transfer'}",,,0.0
+916990,Konstantinos Thimianis,"{'label': 'CB', 'key': 'centerback_short'}",19-06-2024,104814,Panserraikos FC,PAOK Thessaloniki FC,8619,01-07-2024,30-06-2027,contract,400000.0,"{'feeText': 'free transfer', 'localizedFeeText': 'transfer_type_free_transfer'}",CB,centerback,0.0

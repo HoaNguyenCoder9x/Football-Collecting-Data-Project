@@ -1,0 +1,8 @@
+playerId,name,position,transferDate,fromClubId,fromClub,toClub,toClubId,fromDate,toDate,transferType,marketValue,fee,position_name,position_description,fee_transfer
+904710,Delano Burgzorg,"{'label': 'CF', 'key': 'centerforward_short'}",14-06-2024,9905,Mainz,Middlesbrough,8549,01-07-2024,30-06-2028,contract,2000000.0,"{'feeText': 'fee', 'localizedFeeText': 'transfer_fee', 'value': 1000000}",CF,centerforward,1000000.0
+1095320,Cammy Ballantyne,"{'label': 'CM', 'key': 'centermidfielder_short'}",14-06-2024,8467,St. Johnstone,Linfield,-1,01-07-2024,,contract,150000.0,"{'feeText': 'free transfer', 'localizedFeeText': 'transfer_type_free_transfer'}",CM,centermidfielder,0.0
+1041085,Oisin Smyth,"{'label': 'CB', 'key': 'centerback_short'}",14-06-2024,8653,Oxford Utd,St. Mirren,9800,01-07-2024,31-05-2026,contract,160000.0,,CB,centerback,0.0
+1402457,Lovro Stubljar,,14-06-2024,8534,Empoli,Domzale,8154,01-07-2024,30-06-2025,on loan,230000.0,"{'feeText': 'on loan', 'localizedFeeText': 'on_loan'}",,,0.0
+1393515,Christian Corradi,,14-06-2024,9877,Vicenza,Hellas Verona,9876,08-07-2024,30-06-2029,contract,600000.0,"{'feeText': 'fee', 'localizedFeeText': 'transfer_fee', 'value': 500000}",,,500000.0
+1320169,Kaique,,14-06-2024,10283,Palmeiras,Farense,6004,01-07-2024,30-06-2025,on loan,450000.0,"{'feeText': 'on loan', 'localizedFeeText': 'on_loan'}",,,0.0
+798029,Ladislav Krejci,"{'label': 'CB', 'key': 'centerback_short'}",14-06-2024,10247,Sparta Prague,Girona,7732,01-07-2024,30-06-2029,contract,15500000.0,"{'feeText': 'fee', 'localizedFeeText': 'transfer_fee', 'value': 12000000}",CB,centerback,12000000.0

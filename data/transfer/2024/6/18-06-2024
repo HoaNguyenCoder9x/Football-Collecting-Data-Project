@@ -1,0 +1,50 @@
+playerId,name,position,transferDate,fromClubId,fromClub,toClub,toClubId,fromDate,toDate,transferType,marketValue,fee,position_name,position_description,fee_transfer
+174854,Sergio Escudero,"{'label': 'LB', 'key': 'leftback_short'}",18-06-2024,10281,Real Valladolid,Free agent,2,01-07-2024,,contract,1900000.0,,LB,leftback,0.0
+213684,Jordi Masip,"{'label': 'GK', 'key': 'keeper'}",18-06-2024,10281,Real Valladolid,Free agent,2,01-07-2024,,contract,850000.0,,GK,keeper,0.0
+1281986,Marko Lazetic,,18-06-2024,8564,AC Milan,TSC Backa Topola,676140,01-07-2024,30-06-2025,on loan,2400000.0,"{'feeText': 'on loan', 'localizedFeeText': 'on_loan'}",,,0.0
+40930,Adrien Silva,"{'label': 'CM', 'key': 'centermidfielder_short'}",18-06-2024,7841,Rio Ave,Free agent,2,01-07-2024,,contract,550000.0,,CM,centermidfielder,0.0
+1187370,Cristian Devenish,"{'label': 'CB', 'key': 'centerback_short'}",18-06-2024,7841,Rio Ave,Free agent,2,01-07-2024,,contract,1100000.0,,CB,centerback,0.0
+570159,Zé Manuel,,18-06-2024,7841,Rio Ave,Free agent,2,01-07-2024,,contract,130000.0,,,,0.0
+566470,Joca,"{'label': 'RW', 'key': 'rightwinger_short'}",18-06-2024,7841,Rio Ave,Free agent,2,01-07-2024,,contract,300000.0,,RW,rightwinger,0.0
+488140,Joao Teixeira,"{'label': 'CM', 'key': 'centermidfielder_short'}",18-06-2024,7841,Rio Ave,Free agent,2,01-07-2024,,contract,850000.0,,CM,centermidfielder,0.0
+561219,Emmanuel Boateng,"{'label': 'CF', 'key': 'centerforward_short'}",18-06-2024,7841,Rio Ave,Free agent,2,01-07-2024,,contract,750000.0,,CF,centerforward,0.0
+1520602,Luan Farias,,18-06-2024,173552,Estrela dos Amadores,Benfica,9772,01-07-2024,30-06-2028,contract,0.0,"{'feeText': 'free transfer', 'localizedFeeText': 'transfer_type_free_transfer'}",,,0.0
+839970,Magnus Kaastrup,"{'label': 'RW', 'key': 'rightwinger_short'}",18-06-2024,9907,Lyngby,Vendsyssel FF,8615,01-07-2024,,contract,360000.0,,RW,rightwinger,0.0
+942363,Nikolas Dyhr,"{'label': 'LB', 'key': 'leftback_short'}",18-06-2024,1427963,St. Louis City,Randers FC,8410,01-07-2024,01-07-2028,contract,1100000.0,"{'feeText': 'fee', 'localizedFeeText': 'transfer_fee', 'value': 373000}",LB,leftback,373000.0
+875305,Denis Dragus,"{'label': 'ST', 'key': 'striker_short'}",18-06-2024,9985,Standard Liege,Trabzonspor,9752,18-06-2024,30-06-2028,contract,4200000.0,"{'feeText': 'fee', 'localizedFeeText': 'transfer_fee', 'value': 5000000}",ST,striker,5000000.0
+1233532,Isma Armenteros,,18-06-2024,7854,Leganes,Melilla,141789,01-07-2024,30-06-2025,contract,160000.0,"{'feeText': 'free transfer', 'localizedFeeText': 'transfer_type_free_transfer'}",,,0.0
+1233684,Ebenezer Annan,"{'label': 'LB', 'key': 'leftback_short'}",18-06-2024,9857,Bologna,Røde Stjerne Beograd,8687,01-07-2024,30-06-2026,contract,80000.0,"{'feeText': 'free transfer', 'localizedFeeText': 'transfer_type_free_transfer'}",LB,leftback,0.0
+801213,Tete Morente,"{'label': 'LM', 'key': 'leftmidfielder_short'}",18-06-2024,10268,Elche,Lecce,9888,01-07-2024,30-06-2027,contract,3000000.0,"{'feeText': 'free transfer', 'localizedFeeText': 'transfer_type_free_transfer'}",LM,leftmidfielder,0.0
+571388,Stefan Simic,"{'label': 'CB', 'key': 'centerback_short'}",18-06-2024,8372,Eibar,Free agent,2,01-07-2024,,contract,410000.0,,CB,centerback,0.0
+239644,Yacine Qasmi,"{'label': 'ST', 'key': 'striker_short'}",18-06-2024,8372,Eibar,Free agent,2,02-07-2024,,contract,650000.0,,ST,striker,0.0
+482512,Sergio Leon,"{'label': 'ST', 'key': 'striker_short'}",18-06-2024,8372,Eibar,Free agent,2,01-07-2024,,contract,2000000.0,,ST,striker,0.0
+150765,Jose Rios,"{'label': 'LB', 'key': 'leftback_short'}",18-06-2024,8372,Eibar,Free agent,2,01-07-2024,,contract,320000.0,,LB,leftback,0.0
+361379,Frederico Venancio,"{'label': 'CB', 'key': 'centerback_short'}",18-06-2024,8372,Eibar,Free agent,2,01-07-2024,,contract,1000000.0,,CB,centerback,0.0
+190461,Quique,"{'label': 'ST', 'key': 'striker_short'}",18-06-2024,8372,Eibar,Free agent,2,01-07-2024,,contract,900000.0,,ST,striker,0.0
+441441,Ager Aketxe,"{'label': 'RW', 'key': 'rightwinger_short'}",18-06-2024,8372,Eibar,Free agent,2,01-07-2024,,contract,1000000.0,,RW,rightwinger,0.0
+671685,Álvaro Tejero,"{'label': 'RB', 'key': 'rightback_short'}",18-06-2024,8372,Eibar,Free agent,2,01-07-2024,,contract,1900000.0,,RB,rightback,0.0
+314947,Roberto Correa,"{'label': 'RB', 'key': 'rightback_short'}",18-06-2024,8372,Eibar,Free agent,2,01-07-2024,,contract,850000.0,,RB,rightback,0.0
+192064,Yoel Rodriguez,"{'label': 'GK', 'key': 'keeper'}",18-06-2024,8372,Eibar,Free agent,2,01-07-2024,,contract,650000.0,,GK,keeper,0.0
+798629,Josh Knight,"{'label': 'CB', 'key': 'centerback_short'}",18-06-2024,8677,Peterborough,Hannover 96,9904,01-07-2024,30-06-2026,contract,1100000.0,"{'feeText': 'free transfer', 'localizedFeeText': 'transfer_type_free_transfer'}",CB,centerback,0.0
+1036220,Jannis Heuer,"{'label': 'CB', 'key': 'centerback_short'}",18-06-2024,8460,Paderborn,Kaiserslautern,8350,01-07-2024,,contract,810000.0,"{'feeText': 'fee', 'localizedFeeText': 'transfer_fee', 'value': 210000}",CB,centerback,210000.0
+865059,Robin Heusser,"{'label': 'CM', 'key': 'centermidfielder_short'}",18-06-2024,8196,Wehen Wiesbaden,Karlsruher SC,8295,01-07-2024,,contract,1400000.0,"{'feeText': 'free transfer', 'localizedFeeText': 'transfer_type_free_transfer'}",CM,centermidfielder,0.0
+1320034,Aitor Gelardo,"{'label': 'CM', 'key': 'centermidfielder_short'}",18-06-2024,161771,Villarreal B,Free agent,2,01-07-2024,,contract,220000.0,,CM,centermidfielder,0.0
+634260,Christian Kühlwetter,"{'label': 'AM', 'key': 'centerattackingmidfielder_short'}",18-06-2024,94937,FC Heidenheim,Jahn Regensburg,7789,01-07-2024,30-06-2026,contract,510000.0,"{'feeText': 'free transfer', 'localizedFeeText': 'transfer_type_free_transfer'}",AM,centerattackingmidfielder,0.0
+1525369,Felix Lange,,18-06-2024,8721,Wolfsburg,Meppen,79904,01-07-2024,,contract,80000.0,,,,0.0
+1367587,Laurin Ulrich,,18-06-2024,10269,VfB Stuttgart,Ulm,8201,01-07-2024,30-06-2025,on loan,510000.0,"{'feeText': 'on loan', 'localizedFeeText': 'on_loan'}",,,0.0
+1421823,Dario Gebuhr,,18-06-2024,9810,Frankfurt,Hansa Rostock,8294,01-07-2024,,contract,380000.0,,,,0.0
+0,Chilohem Onuoha,,18-06-2024,8722,Köln,SC Verl,7783,02-07-2024,30-06-2025,on loan,0.0,"{'feeText': 'on loan', 'localizedFeeText': 'on_loan'}",,,0.0
+0,Chilohem Onuoha,,18-06-2024,178475,RB Leipzig,Köln,8722,01-07-2024,,contract,0.0,"{'feeText': 'free transfer', 'localizedFeeText': 'transfer_type_free_transfer'}",,,0.0
+1343136,Marco Moreno,"{'label': 'CB', 'key': 'centerback_short'}",18-06-2024,9906,Atletico Madrid,Farense,6004,01-07-2024,30-06-2025,contract,200000.0,"{'feeText': 'free transfer', 'localizedFeeText': 'transfer_type_free_transfer'}",CB,centerback,0.0
+1469955,Mansour Ouro-Tagba,"{'label': 'LW', 'key': 'leftwinger_short'}",18-06-2024,8722,Köln,Jahn Regensburg,7789,02-07-2024,30-06-2025,on loan,420000.0,"{'feeText': 'on loan', 'localizedFeeText': 'on_loan'}",LW,leftwinger,0.0
+1469955,Mansour Ouro-Tagba,"{'label': 'LW', 'key': 'leftwinger_short'}",18-06-2024,9753,1860 München,Köln,8722,01-07-2024,,contract,420000.0,"{'feeText': 'free transfer', 'localizedFeeText': 'transfer_type_free_transfer'}",LW,leftwinger,0.0
+642153,Emir Karic,"{'label': 'LB', 'key': 'leftback_short'}",18-06-2024,8262,Darmstadt,Sturm Graz,10014,01-07-2024,30-06-2027,contract,1100000.0,"{'feeText': 'free transfer', 'localizedFeeText': 'transfer_type_free_transfer'}",LB,leftback,0.0
+952529,Sergio Lopez,"{'label': 'LB', 'key': 'leftback_short'}",18-06-2024,9931,Basel,Darmstadt,8262,01-07-2024,,contract,720000.0,"{'feeText': 'free transfer', 'localizedFeeText': 'transfer_type_free_transfer'}",LB,leftback,0.0
+1256221,Sidney Raebiger,,18-06-2024,9810,Frankfurt,Eintracht Braunschweig,9776,01-07-2024,30-06-2027,contract,330000.0,,,,0.0
+1381854,Fabio Di Michele,"{'label': 'CB', 'key': 'centerback_short'}",18-06-2024,8271,Saarbrücken,Eintracht Braunschweig,9776,01-07-2024,30-06-2026,contract,250000.0,"{'feeText': 'free transfer', 'localizedFeeText': 'transfer_type_free_transfer'}",CB,centerback,0.0
+1351065,Nathaniel Adjei,"{'label': 'CB', 'key': 'centerback_short'}",18-06-2024,8248,Hammarby,Lorient,8689,01-07-2024,,contract,2400000.0,"{'feeText': 'fee', 'localizedFeeText': 'transfer_fee', 'value': 5700000}",CB,centerback,5700000.0
+1283353,David Tufekcic,,18-06-2024,8468,Brann,Kristiansund BK,8605,17-06-2024,31-12-2024,on loan,130000.0,"{'feeText': 'on loan', 'localizedFeeText': 'on_loan'}",,,0.0
+522651,Matheus Pereira,"{'label': 'RW', 'key': 'rightwinger_short'}",18-06-2024,2529,Al Hilal,Cruzeiro,9781,10-07-2024,30-06-2026,contract,7200000.0,"{'feeText': 'fee', 'localizedFeeText': 'transfer_fee', 'value': 5150000}",RW,rightwinger,5150000.0
+1194462,Muamer Brajanac,"{'label': 'CF', 'key': 'centerforward_short'}",18-06-2024,8410,Randers FC,Vålerenga,8007,01-07-2024,30-06-2027,contract,550000.0,,CF,centerforward,0.0
+767206,Oscar Hedvall,"{'label': 'GK', 'key': 'keeper'}",18-06-2024,8113,FC Midtjylland,Viborg,9939,01-07-2024,30-06-2027,contract,210000.0,,GK,keeper,0.0
+498603,Raul Silva,"{'label': 'CB', 'key': 'centerback_short'}",18-06-2024,-1,Universitatea Craiova,Farense,6004,01-07-2024,30-06-2026,contract,0.0,"{'feeText': 'free transfer', 'localizedFeeText': 'transfer_type_free_transfer'}",CB,centerback,0.0

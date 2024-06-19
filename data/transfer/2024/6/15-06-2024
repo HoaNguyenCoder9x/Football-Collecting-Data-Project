@@ -1,0 +1,15 @@
+playerId,name,position,transferDate,fromClubId,fromClub,toClub,toClubId,fromDate,toDate,transferType,marketValue,fee,position_name,position_description,fee_transfer
+1080644,Mardochee Nzita,"{'label': 'LB', 'key': 'leftback_short'}",15-06-2024,583877,Beerschot,Sporting Charleroi,9986,01-07-2024,30-06-2028,contract,700000.0,,LB,leftback,0.0
+1382346,Daouda Weidmann,,15-06-2024,9804,Torino,RKC Waalwijk,10219,01-07-2024,30-06-2028,contract,200000.0,"{'feeText': 'free transfer', 'localizedFeeText': 'transfer_type_free_transfer'}",,,0.0
+1000428,Isak Bergmann Johannesson,"{'label': 'CM', 'key': 'centermidfielder_short'}",15-06-2024,8391,FC København,Düsseldorf,8194,01-07-2024,,contract,3600000.0,"{'feeText': 'fee', 'localizedFeeText': 'transfer_fee', 'value': 2000000}",CM,centermidfielder,2000000.0
+278863,Yunus Malli,"{'label': 'AM', 'key': 'centerattackingmidfielder_short'}",15-06-2024,8622,Konyaspor,Free agent,2,01-07-2024,,contract,300000.0,,AM,centerattackingmidfielder,0.0
+298157,Pablo Iniguez,"{'label': 'CB', 'key': 'centerback_short'}",15-06-2024,161771,Villarreal B,Free agent,2,01-07-2024,,contract,350000.0,,CB,centerback,0.0
+1285528,Joao Mendes,"{'label': 'LB', 'key': 'leftback_short'}",15-06-2024,9773,FC Porto,Vitoria de Guimaraes,7844,01-07-2024,30-06-2028,contract,820000.0,"{'feeText': 'free transfer', 'localizedFeeText': 'transfer_type_free_transfer'}",LB,leftback,0.0
+177503,Gabriel Paulista,"{'label': 'CB', 'key': 'centerback_short'}",15-06-2024,9906,Atletico Madrid,Besiktas,10188,01-07-2024,30-06-2027,contract,3300000.0,"{'feeText': 'free transfer', 'localizedFeeText': 'transfer_type_free_transfer'}",CB,centerback,0.0
+1095432,Charles De Ketelaere,"{'label': 'ST', 'key': 'striker_short'}",15-06-2024,8564,AC Milan,Atalanta,8524,01-07-2024,30-06-2028,contract,25000000.0,,ST,striker,0.0
+1179484,Musa Gurbanly,"{'label': 'CF', 'key': 'centerforward_short'}",15-06-2024,9802,Djurgården,Qarabag FK,7981,01-07-2024,,contract,650000.0,,CF,centerforward,0.0
+1310096,Jesper Svenungsen Skau,"{'label': 'CB', 'key': 'centerback_short'}",15-06-2024,7988,Odd,Mjøndalen,6541,14-06-2024,31-12-2024,on loan,75000.0,"{'feeText': 'on loan', 'localizedFeeText': 'on_loan'}",CB,centerback,0.0
+1025560,Magnus Knudsen,"{'label': 'CM', 'key': 'centermidfielder_short'}",15-06-2024,8705,Rostov,Holstein Kiel,8150,14-06-2024,,contract,2100000.0,"{'feeText': 'fee', 'localizedFeeText': 'transfer_fee', 'value': 1500000}",CM,centermidfielder,1500000.0
+1183741,Simone Tronchin,,15-06-2024,9877,Vicenza,Cittadella,6485,14-06-2024,30-06-2025,contract,180000.0,"{'feeText': 'free transfer', 'localizedFeeText': 'transfer_type_free_transfer'}",,,0.0
+465404,Gennaro Tutino,"{'label': 'ST', 'key': 'striker_short'}",15-06-2024,10167,Parma,Cosenza,6456,14-06-2024,,contract,3400000.0,,ST,striker,0.0
+643986,Ádám Nagy,"{'label': 'CM', 'key': 'centermidfielder_short'}",15-06-2024,6479,Pisa,Spezia,9881,14-06-2024,30-06-2027,contract,950000.0,,CM,centermidfielder,0.0
